@@ -25,9 +25,9 @@ As an AI person i’m personally more intersted in the science of loops, because
 
 You get two paths esentially: keep doing aberrations with the linear model feeding it more data, or the PID. We have already kinda combined it them, with the PID as a special case of backpropagation loops, but it aint there yet because its not part of the inference.
 
-So where i think AGI is headed, well it would go deeper into the good ol trinitary prototype of reality. Combine the linear model with recursive PIDs: just like loops seem to be embedded within other loops in nature (hierarchy). Very basic formulas, but applied compositionally and under massive scale; approximately the ammount of neurons in our brain, which btw when they spike, are also spking bounded and unbounded oscillators.
+So where i think AGI is headed, well it would go deeper into the good ol trinitary prototype of reality. Combine the linear model with recursive PIDs: just like loops seem to be embedded within other loops in nature (hierarchy). Very basic formulas, but applied compositionally and under massive scale; approximately to the ammount of neurons in our brain, which btw when they spike, are also spking bounded and unbounded oscillators, like the quantum particles.
 
-So what would be left after AGI would be a world where we understand loops better. Possibly to an extent where we master ourselves without halting back into us when we reach out to another person.
+So what would be left after AGI would be a world where we understand loops better. Possibly to an extent where we master ourselves without halting back into us when we reach out to another person. AI will not be invented, it will be discovered, as the conscious answer within our means is not enough. Nature inspired methods will prevail.
 
 Thanks for reading.
 
