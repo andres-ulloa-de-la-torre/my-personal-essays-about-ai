@@ -1,5 +1,5 @@
 
-# I dont care about AGI: if you are an AGI research neiter should you
+# I dont care about AGI: if you are an AGI researcher neither should you
 
 In a better informed worldview taking into account how physics actually works, its paramount to address that we actually live in a world of wheels - that means; a world built on the foundation of "small" orbits "big", and small always does a full cycle orbiting along the big thing. "Small" orbits "big" is the foundation of hierarchy (look at the nested orbits in solar systems, galaxies and clusters): the small things act as differentials; little arrows pointing a direction into the heart of the central thing, and the big thing acts as an integrator gathering with it's pull (gravitational or magnetic) new differentials. Why God or whatever, designed this to be the foundational architectural rules of the universe, well i dont know. Maybe other universes are built into alternative frameworks, but it is what is where we live. 
 
