@@ -1,3 +1,3 @@
-# my-personal-essays-about-ai
+# blog
 
 Here you can find my latest musings. Not very conventional.
