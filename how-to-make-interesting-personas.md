@@ -26,7 +26,7 @@ A good template to make a GenAI character that leverages this trick, is to speci
 
 **Dreams**: Wants to accumualte wealth (Neptune in Capricorn)
 
-...and so on and so forth for each of the 12 slots of a normal birth chart. For extra depth of character, you can also add the astrological houses. If the LLM is big and a reasoning model, you can even tell the LLM to analyze tensions, and synastries between the personality components, and make a more complex persona.
+...and so on and so forth for each of the 12 slots of a normal birth chart. For extra depth of character, you can also add the astrological houses. If the LLM is big and a reasoning model, you can even tell the LLM to analyze tensions, and synastries between the personality components, and make a more complex persona. The more well rounded the persona is, and the more transis and wheels it has, the more conscious it will appear to be. Like a prism.
 
 However for this definition card, theres a lot of information loss because my nouns and verbs are not exactly matching the whole depth of the sign, so its just better to let the LLM do the heavylifting and straight up tell it the sign. You just have to do the previous research and somewhat understand metaphysiscs so you know what you are doing.
 
