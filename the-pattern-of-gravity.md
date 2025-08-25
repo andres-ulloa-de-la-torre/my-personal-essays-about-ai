@@ -19,6 +19,7 @@ Under this understandment, implementing a transformer block with just prompting 
 
 Thanks for reading.
 
+https://m.youtube.com/watch?v=4GkAAmk_nf8&pp=ygUSaHVtYW4gaW50ZXJzdGVsbGFy
 
 
 
